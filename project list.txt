@@ -1,0 +1,100 @@
+Simple Calculator  //Dome*
+Unit converter     //Done* 
+Matrix Calculator  
+Electricity Bill Calculator
+
+Bank Management System
+Hospital Management System  
+Diary management System
+Student Record management system
+Stock Management System  
+Medical Store Management  
+Departmental Store Management  
+Library Management System
+
+Customer billing system
+Bus Reservation system
+Movie Ticket Booking System
+Cyber management
+Lexical Analyzer
+Online voting system
+Mini project for phone book
+Birthday List
+Cricket score display
+Calendar
+Modern Periodic Table
+Typing Tutor
+Snake Game
+Snakes and Ladders Game
+Tic-tac-toe Game
+Dino Game
+Pac-Man Game
+Pacman Game Project  
+Hangman Game
+Quiz game
+
+
+
+
+
+/*
+	case 7:
+		printf("You Chose \"Ares(a) To Acres(ac)\"...\n");
+		printf("*************************************************");
+		printf("\nEnter Area in Ares(a): ");
+		scanf("%f", &value);
+		result = (value * 40.469);
+		printf("The Area in Acres(ac) is %.4fac \n", result);
+		printf("*************************************************");
+		break;
+
+	case 8:
+		printf("You Chose \"Ares(a) To Hectares(ha)\"...\n");
+		printf("*************************************************");
+		printf("\nEnter Area in Ares(a): ");
+		scanf("%f", &value);
+		result = (value * 40.469);
+		printf("The Area in Hectares(ha) is %.4fha \n", result);
+		printf("*************************************************");
+		break;
+
+	case 9:
+		printf("You Chose \"Ares(a) To Square centimeters(cm%c)\"...\n", c);
+		printf("*************************************************");
+		printf("\nEnter Area in Ares(a): ");
+		scanf("%f", &value);
+		result = (value * 40.469);
+		printf("The Area in Square centimeters(cm%c) is %.4fcm%c \n", c, result, c);
+		printf("*************************************************");
+		break;
+
+	case 10:
+		printf("You Chose \"Ares(a) To Square feet(ft%c)\"...\n", c);
+		printf("*************************************************");
+		printf("\nEnter Area in Ares(a): ");
+		scanf("%f", &value);
+		result = (value * 40.469);
+		printf("The Area in Square feet(ft%c) is %.4fft%c \n", c, result, c);
+		printf("*************************************************");
+		break;
+
+	case 11:
+		printf("You Chose \"Ares(a) To Square inches(in%c)\"...\n", c);
+		printf("*************************************************");
+		printf("\nEnter Area in Ares(a): ");
+		scanf("%f", &value);
+		result = (value * 40.469);
+		printf("The Area in Square inches(in%c) is %.4fin%c \n", c, result, c);
+		printf("*************************************************");
+		break;
+		
+	case 12:
+		printf("You Chose \"Ares(a) To Square metres(m%c)\"...\n", c);
+		printf("*************************************************");
+		printf("\nEnter Area in Ares(a): ");
+		scanf("%f", &value);
+		result = (value * 40.469);
+		printf("The Area in Square metres(m%c) is %.4fm%c \n", c, result, c);
+		printf("*************************************************");
+		break;
+		*/
